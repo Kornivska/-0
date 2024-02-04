@@ -9,7 +9,7 @@ int main()
 	double A[MAX], B[MAX], C[MAX];
 	int nA, nB, nC, i, m;
 	do {
-		cout << « Input number N < « << MAX << endl;
+		cout << "Input number N <" << MAX << endl;
 		cin >> nA;
 	} while (nA<0 || nA>MAX);
 	nB = nC = 0;
