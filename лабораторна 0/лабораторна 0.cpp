@@ -32,7 +32,7 @@ int main()
 	for (i = 0;i < nC;i++)
 		cout << C[i] << "\t";
 	cin >> i;
-	cout << «Exit\n»;
+	cout << "Exit\n";
 	return 0;
 }
 
