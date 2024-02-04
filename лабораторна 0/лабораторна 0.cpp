@@ -24,7 +24,7 @@ int main()
 	for (i = 0;i < nA;i++)
 		if (A[i] > A[m]) B[nB++] = A[i];
 		else C[nC++] = A[i];
-	cout << « Rezult « << endl;
+	cout << "Result" << endl;
 	cout << « B : « << endl;
 	for (i = 0;i < nB;i++)
 		cout << B[i] << «\t»;
