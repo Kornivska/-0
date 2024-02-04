@@ -25,7 +25,7 @@ int main()
 		if (A[i] > A[m]) B[nB++] = A[i];
 		else C[nC++] = A[i];
 	cout << "Result" << endl;
-	cout << « B : « << endl;
+	cout << " B : " << endl;
 	for (i = 0;i < nB;i++)
 		cout << B[i] << «\t»;
 	cout << «C « << endl;
