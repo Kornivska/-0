@@ -15,7 +15,7 @@ int main()
 	nB = nC = 0;
 	for (i = 0;i < nA;i++)
 	{
-		cout << «A[« << i << «] = «; cin >> A[i];
+		cout << "A[" << i << "] = "; cin >> A[i];
 	}
 	do {
 		cout << « Input index m(0 <= m <= « << nA - 1 << «) « << endl;
