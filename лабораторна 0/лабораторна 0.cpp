@@ -30,7 +30,7 @@ int main()
 		cout << B[i] << "\t";
 	cout << "C" << endl;
 	for (i = 0;i < nC;i++)
-		cout << C[i] << «\t»;
+		cout << C[i] << "\t";
 	cin >> i;
 	cout << «Exit\n»;
 	return 0;
