@@ -18,7 +18,7 @@ int main()
 		cout << "A[" << i << "] = "; cin >> A[i];
 	}
 	do {
-		cout << « Input index m(0 <= m <= « << nA - 1 << «) « << endl;
+		cout << "Input index m(0 <= m <= " << nA - 1 << ") " << endl;
 		cin >> m;
 	} while (m < 0 || m >= nA);
 	for (i = 0;i < nA;i++)
